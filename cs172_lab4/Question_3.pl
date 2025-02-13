@@ -54,4 +54,4 @@ path([X,Y| Rest]):-connected(X,Y),path([Y|Rest]).
 
 
 
-*/
+
